@@ -1,2 +1,2 @@
 # SNAKES
-simple snake game in python
+classic old Snake game with the help of pygame and python.
